@@ -1,0 +1,21 @@
+Slidedown skeleton
+==================
+
+This is a small template I use for preparing talks. Feel free to abuse it.
+
+Getting started
+---------------
+
+If you don't have pygmentize installed, you can either go for the Python
+version (easy install pygments) or the Ruby wrapper (gem install pygmentize).
+
+Install slidedown:
+
+    $ gem install slidedown
+
+If you have problems installing it, go for my fork:
+git@github.com:soveran/slidedown.git
+
+Edit talk.md at will, then run rake to build the slides.
+
+If you note some styles are off, again refer to my patched version.

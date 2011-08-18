@@ -1,0 +1,3 @@
+task :default do
+  `PYGMENTIZE_BIN=$(which pygmentize) slidedown talk.md > index.html && open index.html`
+end
