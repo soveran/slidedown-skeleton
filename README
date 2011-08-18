@@ -7,7 +7,7 @@ Getting started
 ---------------
 
 If you don't have pygmentize installed, you can either go for the Python
-version (easy install pygments) or the Ruby wrapper (gem install pygmentize).
+version (easy_install pygments) or the Ruby wrapper (gem install pygmentize).
 
 Install slidedown:
 
